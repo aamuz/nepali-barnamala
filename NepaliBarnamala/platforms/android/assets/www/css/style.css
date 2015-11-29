@@ -1,0 +1,36 @@
+
+.yellow {
+    background-color: yellow;
+}
+
+.box {
+    padding-top: 0px;
+    vertical-align: central;
+    font-size: 30pt;
+    color: #000099;
+}
+
+.phonetic {
+}
+
+.character {
+    font-size: 150pt;
+    color: #000099;
+}
+
+.slider {
+  height: 100%;
+}
+
+.slider-slide {
+  padding-top: 80px;
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+}
+
+.button.ng-hide{
+  display:none;
+}
